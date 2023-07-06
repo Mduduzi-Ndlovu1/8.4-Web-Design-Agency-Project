@@ -19,9 +19,30 @@ footer {
   color: midnightblue;
 }
 
+.tile-image{
+  float: left;
+  height: 200px;
+  margin-right:50px ;
+}
+.card{
+  width: 45%;
+}
+
+.left {
+  float: left;
+}
+.right{
+  float: right;
+}
 .creative{
   color: midnightblue;
 }
+
+
+
+
+
+
 
 @media (max-width: 680px) {
   .card{
@@ -51,7 +72,7 @@ footer {
     
   }
   .logo{
-    width: 25%;
+    width: 100px;
   }
 }
 
